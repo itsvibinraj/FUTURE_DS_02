@@ -63,8 +63,3 @@ The dashboard answers critical business questions such as:
 ---
 *Created by Vibin Raj*
 
-KAG_conversion_data.csv - The raw source data.
-
-README.md - Project documentation.
-
-Author: Vibin Raj January 2026
